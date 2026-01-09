@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 147.84795 125.32648"
+   width="147.84795"
+   height="125.32648"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.55"
+     inkscape:cx="25.765766"
+     inkscape:cy="61.171171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     transform="matrix(4.0777264,0,0,2.2435073,-2.6955196,29.900468)"
+     id="g5">
+    <rect
+       x="-6.9017992"
+       y="3.4688334"
+       width="7.2702708"
+       height="11.003717"
+       rx="1.8175677"
+       fill="#d4af37"
+       id="rect1"
+       transform="rotate(-90)" />
+    <rect
+       x="-29.590471"
+       y="3.4688196"
+       width="7.2702708"
+       height="11.003717"
+       rx="1.8175677"
+       fill="#d4af37"
+       id="rect1-5"
+       transform="rotate(-90)" />
+    <rect
+       x="0.78285593"
+       y="0.66103494"
+       width="12.5447"
+       height="16.505575"
+       rx="3.1361749"
+       fill="#d4af37"
+       id="rect2"
+       style="stroke-width:0.928838"
+       transform="rotate(-90)" />
+    <rect
+       x="-42.534302"
+       y="0.66106236"
+       width="12.5447"
+       height="16.505575"
+       rx="3.1361749"
+       fill="#d4af37"
+       id="rect2-7"
+       style="stroke-width:0.928838"
+       transform="rotate(-90)" />
+    <rect
+       x="-22.769361"
+       y="7.8732839"
+       width="16.019522"
+       height="2.2875471"
+       fill="#d4af37"
+       id="rect3"
+       style="stroke-width:0.526894"
+       transform="rotate(-90)" />
+  </g>
+  <text
+     x="43.24921"
+     y="68.029892"
+     font-family="'Segoe UI', Roboto, Arial, sans-serif"
+     font-weight="bold"
+     font-size="29.3959px"
+     fill="#d4af37"
+     letter-spacing="-1"
+     id="text5"
+     transform="scale(0.989614,1.010495)"
+     style="stroke-width:1.13059">ourGym</text>
+  <text
+     x="86.337807"
+     y="71.350899"
+     font-family="'Segoe UI', Roboto, Arial, sans-serif"
+     font-size="8.28232px"
+     fill="#888888"
+     letter-spacing="1.5"
+     font-weight="bold"
+     id="text6"
+     transform="scale(0.79049334,1.2650328)"
+     style="letter-spacing:0px;word-spacing:0.5px;stroke-width:0.920258">STRENGTH ZONE</text>
+</svg>
