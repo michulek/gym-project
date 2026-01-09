@@ -614,11 +614,23 @@ footer
 
 
 
-/* RESPANSYWNOŚĆ (TELEFONY) */
 @media (max-width: 768px) 
 {
     .navigationcontainer, .row { flex-direction: column !important;}
-    .navigationmenu  { flex-direction: column; gap: 10px; margin-top: 15px; }
+    .navigationmenu { 
+        display: flex;
+        flex-direction: row; /* Ustawiamy obok siebie */
+        flex-wrap: wrap;     /* ...ale jak się nie zmieszczą, spadają niżej */
+        justify-content: center; /* Wyśrodkowanie */
+        gap: 15px 10px;      /* Odstępy: 15px góra/dół, 10px boki */
+        margin-top: 15px; 
+        padding: 0 10px;
+    }
+    .navigationcontainer img {
+        height: 0px; 
+        width: auto;
+    }
+    .row { flex-direction: column !important;}
     .herotitle { font-size: 2.5rem; }
     .column1, .column2 { width: 100%; }
     .image-wrap { padding: 0; }
