@@ -617,12 +617,67 @@ footer
 /*PHONE*/
 @media (max-width: 768px) 
 {
-    .navigationcontainer, .row { flex-direction: column !important;}
-    .navigationmenu  { flex-direction: column; gap: 10px; margin-top: 15px; }
-    .herotitle { font-size: 2.5rem; }
-    .column1, .column2 { width: 100%; }
-    .image-wrap { padding: 0; }
-    .maininfo-bar { flex-direction: column; gap: 20px; }
+    .navigationbar 
+    {
+        padding: 10px 0;
+    }
+
+    .navigationcontainer 
+    {
+        flex-direction: column !important;
+        gap: 5px;
+    }
+
+    .navigationcontainer a img 
+    {
+        height: 100px !important;
+        width: auto;
+    }
+
+    .navigationmenu 
+    {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 5px;
+        width: 100%;
+        padding: 0;
+    }
+
+    .navigationlink 
+    {
+        font-size: 14px;
+    }
+
+    .row 
+    {
+        flex-direction: column !important;
+    }
+    
+    .column1, .column2 
+    {
+        width: 100%;
+    }
+
+    .image-wrap 
+    {
+        padding: 0;
+    }
+
+    .maininfo-bar 
+    {
+        flex-direction: column;
+        gap: 15px;
+        padding: 20px 0;
+    }
+
+    video 
+    {
+        max-width: 100% !important;
+    }
 }
+
 
 
