@@ -1,4 +1,4 @@
-/* BASE */
+/*BASE*/
 * 
 {
     box-sizing: border-box; 
@@ -118,7 +118,7 @@ a
     background-color: #D4AF37;
 }
 
-/* HOMEPAGE */
+/*HOMEPAGE*/
 .heropicture 
 {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('images/homepage-hero.jpg');
@@ -148,7 +148,7 @@ a
     max-width: 600px;
 }
 
-/* MAIN INFORMATION BAR*/
+/*MAIN INFORMATION BAR*/
 .maininfo-bar 
 {
     border-bottom: 1px solid #333333;
@@ -175,7 +175,7 @@ a
     margin-top: 5px; 
 }
 
-/* ROW AND COLUMNS */
+/* ROW AND COLUMNS*/
 .row 
 {
     display: flex;
@@ -208,7 +208,7 @@ a
     border: 1px solid #D4AF37;     
 }
 
-/* MACHINES */
+/*MACHINES*/
 .separator 
 {
     width: 60px;
@@ -254,7 +254,7 @@ a
 }
 
 
-/* PRICING */
+/*PRICING*/
 .pricingcard 
 {
     background-color: #0a0a0a;
@@ -309,7 +309,7 @@ a
     margin-top: 25px;
 }
 
-/* CONTACT */
+/*CONTACT*/
 
 .formlabel 
 {
@@ -357,7 +357,7 @@ a
 
 
 
-/* SCHEDULE */
+/*SCHEDULE*/
 .schedulegrid 
 {
     display: grid;
@@ -430,7 +430,7 @@ a
 
 
 
-/* FITNESS ZONE */
+/*FITNESS ZONE*/
 
 .fitnesszonegrid 
 {
@@ -491,7 +491,7 @@ a
 }
 
 
-/* Cardio zone */
+/*Cardio zone*/
 .full-width-wrapper 
 {
     width: 100%;        
@@ -510,7 +510,7 @@ a
 
 
 
-/* Free weights zone */
+/*Free weights zone*/
 .Freeweightszone-img 
 {
     width: 100%;
@@ -521,7 +521,7 @@ a
 }
 
 
-/* TRAINING */
+/*TRAINING*/
 .image-wrap
 {
     position: relative;
@@ -614,7 +614,7 @@ footer
 
 
 
-/* PHONE */
+/*PHONE*/
 @media (max-width: 768px) 
 {
     .navigationcontainer, .row { flex-direction: column !important;}
@@ -624,4 +624,5 @@ footer
     .image-wrap { padding: 0; }
     .maininfo-bar { flex-direction: column; gap: 20px; }
 }
+
 
